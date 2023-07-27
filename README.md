@@ -5,7 +5,7 @@
 
 <!-- Python -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="file:///C:/Users/cpglk/Downloads/4375050_logo_python_icon.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.iconfinder.com/icons/4375050/logo_python_icon" alt="python" width="40" height="40"/>
 </a>
 
 <!-- OpenCV -->
