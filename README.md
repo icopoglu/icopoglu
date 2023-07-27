@@ -2,7 +2,7 @@
 ### You change, your world changes.
 ### évolution
 ### My Skills
-(https://skills.thijs.gg/icons?i=c,py,vim)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=vim,c,c++,py)](https://skills.thijs.gg)
 <!--
 **icopoglu/icopoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
