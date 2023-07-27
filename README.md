@@ -1,14 +1,24 @@
 <!-- Linux -->
-[<i class="fab fa-linux"></i> Linux](https://www.linux.org/)
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="40" height="40"/>
+</a>
 
 <!-- Python -->
-[<i class="fab fa-python"></i> Python](https://www.python.org)
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/>
+</a>
 
 <!-- OpenCV -->
-[<i class="fab fa-python"></i> OpenCV](https://opencv.org/)
+<a href="https://opencv.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="opencv" width="40" height="40"/>
+</a>
 
 <!-- MATLAB -->
-[<i class="fab fa-matlab"></i> MATLAB](https://www.mathworks.com/)
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+</a>
 
 <!-- GitHub istatistikleri -->
-![GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=icopoglu&show_icons=true&locale=en)
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=icopoglu&show_icons=true&locale=en" alt="icopoglu" />
+</p>
