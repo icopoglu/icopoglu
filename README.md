@@ -5,7 +5,7 @@
 
 <!-- Python -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://www.iconfinder.com/icons/4375050/logo_python_icon" alt="python" width="40" height="40"/>
+  <img src="https://camo.githubusercontent.com/910e9fa5713f0f2aa489815db1897e5698c6bfc66af3d123b2912a269ff98ae7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f632f632d6f726967696e616c2e737667" alt="python" width="40" height="40"/>
 </a>
 
 <!-- OpenCV -->
