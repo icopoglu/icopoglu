@@ -1,5 +1,6 @@
-### Hi there 👋 , I'm Kerem
-!évolution!
+Hi there 👋 , I'm Kerem
+You change, your world changes.
+évolution
 
 <!--
 **icopoglu/icopoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
