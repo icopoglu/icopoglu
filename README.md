@@ -53,7 +53,7 @@
   </a>
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="python" width="40" height="40"/>
+    <img src="https://th.bing.com/th/id/R.316ab42cfff81705cb0fcede057c2b67?rik=CqLIywT%2bGZyzaQ&pid=ImgRaw&r=0" alt="python" width="40" height="40"/>
   </a>
 </p>
 
