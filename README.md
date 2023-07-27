@@ -1,7 +1,9 @@
 ### Hi there 👋 , I'm Kerem
 ### You change, your world changes.
 ### évolution
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <!--
 **icopoglu/icopoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
