@@ -53,7 +53,7 @@
   </a>
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://th.bing.com/th/id/R.316ab42cfff81705cb0fcede057c2b67?rik=CqLIywT%2bGZyzaQ&pid=ImgRaw&r=0" alt="python" width="40" height="40"/>
+    <img src="https://tecnoschool.com.ar/cursos/wp-content/uploads/2020/07/59523230-55488280-8f03-11e9-9abe-e8e0f3d9a245.gif" alt="python" width="40" height="40"/>
   </a>
 </p>
 
