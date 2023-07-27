@@ -1,6 +1,6 @@
 ### Hi there 👋 , I'm Kerem
-### You change, your world changes.
-### évolution
+You change, your world changes.
+évolution
 ### My Skills
 [![My Skills](https://skills.thijs.gg/icons?i=vim,c,cpp,py)](https://skills.thijs.gg)
 <!--
