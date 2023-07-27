@@ -2,6 +2,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&width=850&lines=C%2FC%2B%2B+developer%2Flearner+at+Ecole+42;Electrical+Engineer+%26%26++JR+Software+Developer+;Think+big+and+you+will+be+big;Knowledge+is+power+-+Francis+Bacon;You+change%2C+your+world+changes" alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center" alt="jorge Alves">
+</p>
+
 ##  Skills
 
 <p allign="left">
