@@ -1,28 +1,26 @@
-
+<!-- Font Awesome Kütüphanesini Ekleyin -->
 <head>
-  <!-- Diğer head içerikleri -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
 </head>
 
-
 <!-- Linux -->
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <i class="fab fa-linux" style="font-size: 40px;"></i>
+  <i class="fab fa-linux"></i> Linux
 </a>
 
 <!-- Python -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <i class="fab fa-python" style="font-size: 40px;"></i>
+  <i class="fab fa-python"></i> Python
 </a>
 
 <!-- OpenCV -->
 <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-  <i class="fab fa-python" style="font-size: 40px;"></i>
+  <i class="fab fa-python"></i> OpenCV
 </a>
 
 <!-- MATLAB -->
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-  <i class="fab fa-matlab" style="font-size: 40px;"></i>
+  <i class="fab fa-matlab"></i> MATLAB
 </a>
 
 <!-- GitHub istatistikleri -->
