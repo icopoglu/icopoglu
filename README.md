@@ -7,7 +7,7 @@
 <table>
   <tr>
     <th><img src="https://media.tenor.com/ang0VzOwbdAAAAAC/the-matrix-reloaded-matrix.gif" width="250px" height="200px" /></th>
-    <th><img src="https://media.tenor.com/K8E7pBG4WgoAAAAd/realize-sully-rembshire.gif" width="280px" height="200px" /></th>
+    <th><img src="https://media.tenor.com/K8E7pBG4WgoAAAAd/realize-sully-rembshire.gif" width="2600px" height="200px" /></th>
     <th><img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="250px" height="200px" /></th>
   </tr>
 </table>
