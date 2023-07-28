@@ -6,9 +6,9 @@
 
 <table>
   <tr>
-    <th><img src="https://media.tenor.com/ang0VzOwbdAAAAAC/the-matrix-reloaded-matrix.gif" width="300px" height="300px" /></th>
-    <th><img src="https://media.tenor.com/K8E7pBG4WgoAAAAd/realize-sully-rembshire.gif" width="300px" height="300px" /></th>
-    <th><img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300px" height="300px" /></th>
+    <th><img src="https://media.tenor.com/ang0VzOwbdAAAAAC/the-matrix-reloaded-matrix.gif" width="200px" height="200px" /></th>
+    <th><img src="https://media.tenor.com/K8E7pBG4WgoAAAAd/realize-sully-rembshire.gif" width="200px" height="200px" /></th>
+    <th><img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="200px" height="200px" /></th>
   </tr>
 </table>
 
