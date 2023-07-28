@@ -1,18 +1,25 @@
-<p allign="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&width=850&lines=C%2FC%2B%2B+developer%2Flearner+at+Ecole+42;Electrical+Engineer+%26%26++JR+Software+Developer+;Think+big+and+you+will+be+big;Knowledge+is+power+-+Francis+Bacon;You+change%2C+your+world+changes" alt="Typing SVG" /></a>
+<h1 align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&width=850&lines=C%2FC%2B%2B+developer%2Flearner+at+Ecole+42;Electrical+Engineer+%26%26++JR+Software+Developer+;Think+big+and+you+will+be+big;Knowledge+is+power+-+Francis+Bacon;You+change%2C+your+world+changes" alt="Typing SVG" />
+  </a>
+</h1>
+
+<table>
+  <tr>
+    <th><img src="https://media.tenor.com/ang0VzOwbdAAAAAC/the-matrix-reloaded-matrix.gif" width="300px" height="300px" /></th>
+    <th><img src="https://media.tenor.com/K8E7pBG4WgoAAAAd/realize-sully-rembshire.gif" width="300px" height="300px" /></th>
+    <th><img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300px" height="300px" /></th>
+  </tr>
+</table>
+
+
+## Skills
+
+<p align="left">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 </p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center" alt="jorge Alves">
-</p>
-
-##  Skills
-
-<p allign="left">
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-</p>  
 
 ##  Tools
 <p allign="left">
