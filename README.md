@@ -31,11 +31,7 @@
   
 ## Connect with me!
 <p allign="left">
-  <a href = "https://www.linkedin.com/in/keremcpgl/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href = "https://twitter.com/ikerem__"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-  <a href = "https://www.instagram.com/keremcpgl/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
   <a href = "mailto:my.keremcpgl@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
 </p>
 
 ## Stats
